@@ -52,6 +52,12 @@
 
 ---
 
+## 🧊 3D Contribution Cube
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=collabdwaar7-droid&theme=tokyonight" />
+</p>
+
 # 📊 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabdwaar7-droid&layout=compact&theme=tokyonight)
