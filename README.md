@@ -32,3 +32,8 @@
 ## 🔥 GitHub Streak
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=collabdwaar7-droid&theme=tokyonight)
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/collabdwaar7-droid/collabdwaar7-droid/raw/output/github-contribution-grid-snake.svg)
