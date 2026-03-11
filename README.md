@@ -30,6 +30,10 @@
 
 ---
 
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=collabdwaar7-droid&layout=compact&theme=tokyonight)
+
 ## 🔥 GitHub Streak
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=collabdwaar7-droid&theme=tokyonight)
