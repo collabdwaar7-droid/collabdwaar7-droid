@@ -44,8 +44,7 @@
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=collabdwaar7-droid&theme=tokyonight&margin-w=10&margin-h=10)
----
+<img src="https://github-profile-trophy.vercel.app/?username=collabdwaar7-droid&theme=tokyonight" />
 
 # 📊 Most Used Languages
 
