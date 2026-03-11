@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=22C3E6&center=true&vCenter=true&width=600&lines=Hi+I'm+Sohil;Open+Source+Developer;Building+ZapType;Learning+AI+%26+Web+Development" />
+</p>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sohil;Developer;Open+Source+Learner;Building+ZapType+Projects)
 # Hi 👋 I'm Sohil
 
