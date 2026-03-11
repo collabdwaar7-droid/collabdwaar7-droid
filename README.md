@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=32&duration=4000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+I'm+Sohil;Developer;Open+Source+Learner;Building+ZapType+Projects)
 # Hi 👋 I'm Sohil
 
 💻 Developer | Open Source Learner  
