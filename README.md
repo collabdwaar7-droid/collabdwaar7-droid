@@ -42,9 +42,9 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=collabdwaar7-droid&theme=tokyonight&no-frame=true&row=1&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=collabdwaar7-droid&theme=tokyonight)
 
 ---
 
