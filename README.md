@@ -42,3 +42,7 @@
 ## 🐍 Contribution Snake
 
 ![Snake animation](https://github.com/collabdwaar7-droid/collabdwaar7-droid/raw/output/github-contribution-grid-snake.svg)
+
+## 👀 Profile Views
+
+![Visitor Count](https://komarev.com/ghpvc/?username=collabdwaar7-droid&color=blue)
