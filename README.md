@@ -48,7 +48,7 @@
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=collabdwaar7-droid&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ZapType&theme=tokyo-night)
 
 ---
 
